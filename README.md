@@ -89,6 +89,9 @@ MIT or Apache 2.0 (choose the one you prefer)
 Made by
 
 Ronaldo Jiconda
+
+
+
 Altay Cevik
 
-Mame Diarra Wade
+
