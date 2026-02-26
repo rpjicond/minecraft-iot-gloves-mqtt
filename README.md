@@ -88,8 +88,7 @@ MIT or Apache 2.0 (choose the one you prefer)
 ## 🧩 Author
 Made by
 
-Anete Neto
-
-Lina El Amrani
+Ronaldo Jiconda
+Altay Cevik
 
 Mame Diarra Wade
